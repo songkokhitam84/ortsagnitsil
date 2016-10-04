@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
+#EXTINF:0, tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/104_300.png" group-title="Malaysia", Astro RIA
+http://www.layarku.tv/media/riaweb6.m3u8
+
+#EXTINF:0, [MY] ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/dd/Astro_AEC.jpg/200px-Astro_AEC.jpg" group-title="Malaysia",ASTRO AEC
+http://go.layarku.tv/aec.m3u8
+ 
+#EXTINF:0, tvg-logo="http://www.marketingmagazine.com.my/images/stories/2014/goshop_logo.jpg" group-title="DiGi&MF", GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_05.m3u8
+
+#EXTINF:0, tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/07/Al-Quran-TV-Saudi-Arabia.jpg", KSA-Quran TV
+http://46.245.160.224/mekke/mekke/media_w1824315188_225988.m3u8
+ 
+#EXTINF:0, tvg-logo="http://4.bp.blogspot.com/-WtRVs6DCdLg/TlFTt-Uzl0I/AAAAAAAAADI/CyBTvKsErmM/s1600/mk8.jpg" ,Makkah Live
+rtsp://livestreaming2.itworkscdn.net/squranlive/squran_360p
+
+#EXTINF:0, tvg-logo="makkah.png" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/f8/10/12/f810121ef065a40c3e3640300cd0d98c.jpg" ,Madinah Live
+http://46.245.160.224/medine/medine/gmswf.m3u8
+ 
+#EXTINF:0, tvg-logo="http://www.cifiaonline.com/Peace%20TV%203.jpg" , Peace TV
+rtmp://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1
+
+#EXTINF:0, CAN:FOOD_NETWORK
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2935.ts
